@@ -34,4 +34,4 @@ $ git clone https://github.com/eduardo-m2001/game-of-life
 ```
 ___
 
-[O resultado FINAL pode ser visto aqui](https://numbers-converter2023.netlify.app/)
+[O resultado FINAL pode ser visto aqui](https://game-of-life2023.netlify.app/)
