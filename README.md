@@ -25,7 +25,19 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 ___
 
-## 🚀 Como utilizar
+## 💡 Como utilizar a calculadora?
+
+Para calcular a divisão corretamente, digite os nomes dos clientes separados por vírgula no campo "Clientes" e os produtos consumidos com seus respectivos preços separados por vírgula no campo "Produtos".
+
+Por exemplo:
+
+Clientes: João, Maria, Pedro
+
+Produtos: Pizza (42.00), Refrigerante (8.00), Suco (7.00)
+
+___
+
+## 🚀 Como utilizar o projeto em minha máquina?
 
 Clone o projeto para o local desejado em seu computador.
 
