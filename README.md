@@ -10,7 +10,7 @@ ___
 ## 🎨 Layout
 A página inicial em formato desktop é vista na imagem abaixo:
 
-![image](https://github.com/eduardo-m2001/game-of-life/assets/88609782/2037f0c3-9fd6-4c54-b6e7-6720499d5fe4)
+![image](https://github.com/eduardo-m2001/game-of-life/assets/88609782/6ebd20fb-669f-4672-9f79-d6470bb4d3d6)
 
 
 ___
